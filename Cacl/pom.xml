@@ -23,5 +23,28 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+
+	<!-- https://mvnrepository.com/artifact/commons-codec/commons-codec -->
+	<dependency>
+		<groupId>commons-codec</groupId>
+		<artifactId>commons-codec</artifactId>
+		<version>1.11</version>
+	</dependency>
+
+	<!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
+	<dependency>
+		<groupId>com.google.guava</groupId>
+		<artifactId>guava</artifactId>
+		<version>26.0-jre</version>
+	</dependency>
+	<!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
+	<dependency>
+		<groupId>com.alibaba</groupId>
+		<artifactId>fastjson</artifactId>
+		<version>1.2.49</version>
+	</dependency>
+	
+	
+    
   </dependencies>
 </project>
