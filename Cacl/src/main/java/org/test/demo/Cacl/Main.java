@@ -72,7 +72,6 @@ public class Main {
 		System.out.println(DigestUtils.md5Hex(JSON.toJSONString(treeMap)));
 		System.out.println(JSON.toJSON(treeMap).toString());
 		System.out.println(JSON.toJSONString(JSON.toJSON(treeMap)));
-		System.out.println(JSON.toJSONString(treeMap));
 	}
 
 }
